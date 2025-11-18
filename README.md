@@ -1,7 +1,7 @@
 # Natural Language Processing Portfolio (NLP/TAL)
 
 ## Overview *– Aperçu*
-- [![Project 1]](https://github.com/Venera4/projects/tree/main/1.%20Automatic%20medical%20description%20classification)
+- [[Project 1]](https://github.com/Venera4/projects/tree/main/1.%20Automatic%20medical%20description%20classification)
 
 
 ### Project 1: Automatic medical description classification  (Classical Machine Learning Methods & Deep Learning)
